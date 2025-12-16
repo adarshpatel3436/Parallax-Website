@@ -10,7 +10,7 @@ The website highlights the beauty of nature with smooth scrolling effects and cl
 - Smooth section transitions  
 - Clean and responsive layout  
 - Nature-themed design  
-- Easy-to-understand HTML & CSS
+- Easy-to-understand HTML & CSS .
 
 ---
 
